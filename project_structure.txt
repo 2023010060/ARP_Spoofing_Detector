@@ -1,0 +1,10 @@
+ARP_Spoofing_Detector/
+|
++-- main.py
++-- requirements.txt
++-- README.md
++-- run_windows.bat
+|
++-- .venv/                 (created automatically)
++-- reports/               (optional; create when needed)
++-- screenshots/           (optional; for project documentation)
